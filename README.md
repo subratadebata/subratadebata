@@ -17,8 +17,8 @@
 
 ## 👨‍💻 About Me
 
-- **Full stack developer** with hands-on experience across **Java, Kotlin, Python, JavaScript, TypeScript, and SQL** — building on **JDK and JEE (Java EE)** platforms while shipping equally well across **frontend, mobile, cloud, and DevOps** stacks.
-- Currently at **Renesas Electronics**, working across software, firmware, and hardware, with a focus on **software architecture**, clean and scalable code, **cloud infrastructure**, and **AI-assisted development**. Based in **India** (previously Bengaluru, Hyderabad, and Pune); fluent in **English, Hindi, and Oriya**.
+- **Full stack developer** across **Java, Kotlin, Python, JavaScript, TypeScript, and SQL** — building on **JDK and JEE (Java EE)** as well as **frontend, mobile, cloud, and DevOps** stacks.
+- Currently at **Renesas Electronics** across software, firmware, and hardware, focused on **architecture**, scalable code, **cloud**, and **AI**; based in **India**, fluent in **English, Hindi, and Oriya**.
 
 ---
 
