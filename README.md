@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subrata Kumar Debata</h1>
-<h3 align="center">Senior Software Engineer @ Renesas Electronics</h3>
+<h3 align="center">Staff Software Engineer @ <a href="https://www.renesas.com/" target="_blank" rel="noreferrer">Renesas Electronics</a></h3>
 
 <p align="left">
   <img style="display: none;" src="https://komarev.com/ghpvc/?username=subratadebata" alt="subrata" />
@@ -121,3 +121,4 @@
 - 📫 Email: **debata.subrata@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/subrata-kumar-debata-0b3a5964/**
 - 🐙 GitHub: **https://github.com/subratadebata**
+- 🏢 Renesas Electronics: <a href="https://www.renesas.com/" target="_blank" rel="noreferrer">https://www.renesas.com/</a>
