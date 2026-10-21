@@ -6,7 +6,7 @@
 </p>
 
 - 👨‍💻 Software developer based in Bengaluru, India, working across **Java, Kotlin, Python, JavaScript, TypeScript** and SQL — building on **JDK and JEE (Java EE)** as well as **frontend, mobile, cloud, and DevOps** stacks.
-- 🛠 Experienced with **Spring, React, Angular, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, Redis**, and CI/CD tooling (GitLab CI, Jenkins).
+- 🛠 Experienced with **Spring, React, Angular, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, Redis**, plus **AI frameworks (TensorFlow, PyTorch)**, and CI/CD tooling (GitLab CI, Jenkins).
 - ☕ Fluent in **English, Hindi, and Oriya**.
 
 <h3 align="left">Connect with me:</h3>
@@ -90,6 +90,24 @@
 </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind CSS">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer" title="TensorFlow">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
+</a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer" title="PyTorch">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
+</a>
+<a href="https://keras.io/" target="_blank" rel="noreferrer" title="Keras">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" alt="Keras" width="40" height="40" />
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer" title="NumPy">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" title="Pandas">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" title="Scikit-learn">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40" />
 </a>
 
 <h3 align="left">Contact:</h3>
