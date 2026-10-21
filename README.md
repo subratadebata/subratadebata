@@ -9,24 +9,6 @@
 - 🛠 Experienced with **Spring, React, Angular, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, Redis**, plus **AI frameworks (TensorFlow, PyTorch)**, and CI/CD tooling (GitLab CI, Jenkins).
 - ☕ Fluent in **English, Hindi, and Oriya**.
 
-<h3 align="left">Work Experience:</h3>
-
-- 💼 **Senior Software Engineer** — **Renesas Electronics**, Bengaluru, India *(2023 – Present)*
-  - Building full stack solutions on **JDK and JEE (Java EE)** platforms across software, firmware, and hardware.
-- 💼 **Senior Software Engineer** — **Philips India**, Bangalore *(Feb 2022 – 2023)*
-  - Delivered **SLEEP-RPM**, an end-to-end sleep remote patient monitoring platform for virtual care delivery, using Spring Boot, Spring Data JPA, Cloud Foundry, Feign Client, Angular 10 with Angular Material, and Chart.js.
-- 💼 **Senior Software Engineer** — **Bank of America**, Hyderabad *(Jun 2020 – Jan 2022)*
-  - Built the **EFX-Dashboard** forex trading platform for investment banking, with Spring Boot, Spring Security, Angular 8, React, Oracle, kdb+, ZooKeeper, Kafka, and Python services.
-- 💼 **Software Engineer** — **Cybage Software**, Hyderabad *(Apr 2019 – Jun 2020)*
-  - Delivered the **API (Accommodation Plus International)** travel platform from scratch — REST APIs, microservices, JWT role-based security, AWS SQS, and an Angular front end with ag-Grid.
-- 💼 **Application Development Analyst** — **Accenture**, Pune *(Dec 2018 – Apr 2019)*
-  - Built the **Saksham** TB counselling module, spanning registration, app architecture, and database design.
-- 💼 **Assistant System Engineer** — **Empover i-Tech**, Hyderabad *(Feb 2016 – Dec 2018)*
-
-<h3 align="left">Education:</h3>
-
-- 🎓 **B.Tech, Applied Electronics & Instrumentation Engineering** — Gandhi Institute of Engineering & Technology (GIET), Gunupur, Odisha, under B.P.U.T. Rourkela *(2010 – 2014, CGPA 8.10)*
-
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
