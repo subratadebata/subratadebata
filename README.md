@@ -21,7 +21,7 @@
 - Currently at **Renesas Electronics**, working across software, firmware, and hardware
 - Passionate about **Java technology**, software architecture, and clean, scalable code
 - Hands-on with **cloud infrastructure**, **DevOps**, and **AI-assisted development**
-- Based in **India** — previously worked across Bengaluru, Hyderabad, and Pune
+- Based in **India** previously worked across Bengaluru, Hyderabad, and Pune
 - Fluent in **English, Hindi, and Oriya**
 
 ---
