@@ -2,7 +2,7 @@
 
 # Hi 👋 I'm Subrata Kumar Debata
 
-> Full Stack Developer @ Renesas Electronics | Building Java, Cloud & AI Products
+> Full Stack Developer @ Renesas Electronics | Coding Across Every Language, Cloud & AI
 
 <p align="center">
   <a href="https://www.linkedin.com/in/subrata-kumar-debata-0b3a5964/">
@@ -17,11 +17,12 @@
 
 ## 👨‍💻 About Me
 
-- Full stack developer working on **JDK and JEE (Java EE)** platforms
+- Full stack developer who codes in **all languages** — **Java, Kotlin, Python, JavaScript, TypeScript, SQL** and more
+- Builds on **JDK and JEE (Java EE)** platforms, and just as happily across **frontend, mobile, cloud, and DevOps** stacks
 - Currently at **Renesas Electronics**, working across software, firmware, and hardware
 - Passionate about **Java technology**, software architecture, and clean, scalable code
 - Hands-on with **cloud infrastructure**, **DevOps**, and **AI-assisted development**
-- Based in **India** previously worked across Bengaluru, Hyderabad, and Pune
+- Based in **India** — previously worked across Bengaluru, Hyderabad, and Pune
 - Fluent in **English, Hindi, and Oriya**
 
 ---
