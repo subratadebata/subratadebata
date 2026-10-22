@@ -8,7 +8,7 @@
 - 👨‍💻 Software developer based in Bengaluru, India, working across **Java, Kotlin, Python, JavaScript, TypeScript** and SQL — building on **JDK and JEE (Java EE)** as well as **frontend, mobile, cloud, and DevOps** stacks.
 - 🛠 Experienced with **Spring, React, Angular, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, Redis**, plus **AI frameworks (TensorFlow, PyTorch)**, and CI/CD tooling (GitLab CI, Jenkins).
 - ☕ Fluent in **English, Hindi, and Oriya**.
-- 🏢 Also previously worked at **Philips (Bangalore)** and **Bank of America (Hyderabad)**.
+- 🏢 Current: <a href="https://www.renesas.com/" target="_blank" rel="noreferrer">Renesas Electronics</a> · Ex: <a href="https://www.philips.com/" target="_blank" rel="noreferrer">Philips</a> and <a href="https://www.bankofamerica.com/" target="_blank" rel="noreferrer">Bank of America</a>.
 
 <h3 align="left">Connect with me:</h3>
 
@@ -122,4 +122,3 @@
 - 📫 Email: **debata.subrata@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/subrata-kumar-debata-0b3a5964/**
 - 🐙 GitHub: **https://github.com/subratadebata**
-- 🏢 Renesas Electronics: <a href="https://www.renesas.com/" target="_blank" rel="noreferrer">https://www.renesas.com/</a>
