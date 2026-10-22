@@ -8,6 +8,7 @@
 - 👨‍💻 Software developer based in Bengaluru, India, working across **Java, Kotlin, Python, JavaScript, TypeScript** and SQL — building on **JDK and JEE (Java EE)** as well as **frontend, mobile, cloud, and DevOps** stacks.
 - 🛠 Experienced with **Spring, React, Angular, Docker, Kubernetes, AWS, PostgreSQL, MySQL, MongoDB, Redis**, plus **AI frameworks (TensorFlow, PyTorch)**, and CI/CD tooling (GitLab CI, Jenkins).
 - ☕ Fluent in **English, Hindi, and Oriya**.
+- 🏢 Also previously worked at **Philips (Bangalore)** and **Bank of America (Hyderabad)**.
 
 <h3 align="left">Connect with me:</h3>
 
